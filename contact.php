@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kontakt</title>
     <style>
-
-        
-    body 
+        body 
         {
             font-family: Arial, sans-serif;
             background-color: #fff;
@@ -37,7 +35,7 @@
     </style>
     <link rel="icon" href="linklogo.png" type="image/png">
     <div class="container">
-        <a href="main.html" class="logo">
+        <a href="main.php" class="logo">
             <img src="logo.jpg" height=200 weight=200 alt="Logo Biblioteki">
         </a>
         <img src="kontakt.jpg" height=150 weight=100>
